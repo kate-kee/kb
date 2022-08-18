@@ -36,6 +36,7 @@ public class countinversion {
             nums[k++]=right[j++];
         }
         return count;
+    
     }
     public static void main(String[] args) {
         int[] nums={8,4,2,1};
